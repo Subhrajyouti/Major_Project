@@ -1,6 +1,6 @@
 
 
-# Discharge Rate Estimation using Python
+# Discharge Rate Prediction for Return Period of 25, 50 and 100 year Estimation using Python
 
 **Hydrodynamic Modeling of Hooghly River – Chapter 5 Results Analysis**
 
